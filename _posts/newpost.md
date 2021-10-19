@@ -7,3 +7,4 @@ title: A new post
 [] Fork the repo
 [] Rename the repo
 [] 
+[] Add, commit, push
