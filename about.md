@@ -8,8 +8,8 @@ Some information about Chenkai Fang!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+This is a guy who is always being passionate about creating!
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[k21032565@kcl.ac.uk](mailto:k21032565@kcl.ac.uk)
